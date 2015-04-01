@@ -1,3 +1,6 @@
-td.wrapper {
+body, .body{
+	background-color: #eeeeee;
+}
+td.wrapper{
 	vertical-align: middle;
 }
