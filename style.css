@@ -1,6 +1,49 @@
-body, .body{
-	background-color: #eeeeee;
+img{
+	float: none;
 }
-td.wrapper{
-	vertical-align: middle;
+
+/*body, .body{
+	background-color: #EEEEEE;
 }
+.container{
+	background-color: #FFFFFF;
+}
+p{
+	margin: 0 auto;
+}
+.issue{
+	text-align: right;
+}
+.social{
+	display: inline;
+	float: none;
+}
+.header-right{
+	float: none;
+	text-align: right;
+}
+.logo{
+	padding: 5.5px 0;
+}
+.panel{
+	border: none;
+	background-color: #FFFFFF;
+}
+.separator .panel{
+	width: 100%;
+	height: 8px;
+	padding: 0 !important;
+	background-color: #2577CA;
+}
+.separator .wrapper{
+	padding-right: 0;
+}
+.offers .panel{
+	padding: 0 !important;
+}
+
+
+.tri img{
+	float: none;
+	text-align: center;
+}*/
