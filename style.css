@@ -1,6 +1,18 @@
-body, .body{
+/***********************/
+/****** Ink overrides ******/
+/***********************/
+table.columns td.sub-columns.social{
+	padding-right: 0;
+	text-align: right;
+	vertical-align: middle;
+}
+table.columns td.sub-columns.social img{
+	display: inline-block;
+	float: none;
+}
+body{
 	background-color: #eeeeee;
 }
-td.wrapper{
-	vertical-align: middle;
+.header{
+	background-color: #ffffff;
 }
